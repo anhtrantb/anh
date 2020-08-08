@@ -1,0 +1,80 @@
+.main{
+	margin-top:30px;
+	width:100%;
+	height:100%;
+}
+.bentrai{
+	float:left;
+	width:26%;
+}
+.ogiua{
+	float:left;
+	width:47%;
+}
+.benphai{
+	float:left;
+	width:26%;
+}
+.bentrai .list{
+	padding-left:2px;
+}
+.bentrai .list li{
+	color:#eee;
+	display:flex;
+	padding:10px 0px 10px 0px;
+	list-style: none;
+	margin-left:0px;
+}
+.list li img{
+	width:20px;
+	height:20px;
+	padding-right:5px;
+}
+.tin{
+	display:flex;
+}
+.tin .small-icon{
+	position: absolute;
+	top:2px;
+	left:2px;
+	height:22px;
+	width:22px;
+	border-radius:50%;
+	border:2px solid blue;
+}
+.tin .tin-style{
+	position: relative;
+	width:90px;
+	height:120px;
+	margin-left:5px;
+	margin-top:35px;
+	border-radius:5px;
+}
+.tin .tin-style .bigimg{
+	height:100%;
+	width:100%;
+}
+.lienhe{
+	display:flex;
+	width:100%;
+}
+.lienhe i{
+	margin:10px 10px 10px 10px;
+}
+.lienhe .video-icon{
+	margin-left:27px;
+}
+.list img{
+	width:20px;
+	height:20px;
+	border-radius: 50%;
+}
+.benphai .list li{
+	display:flex;
+	color:#eee;
+	list-style: none;
+}
+.benphai .list li p{
+	margin-top:0px;
+	margin-left:2px;
+}

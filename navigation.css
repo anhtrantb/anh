@@ -1,0 +1,47 @@
+body{
+	background-color: #242526;
+}
+.navigation{
+	width:100%;
+	position:fixed ;
+	top:10px;
+	display:flex;
+	height:35px;
+	color:#aaa ;
+	border-bottom:1px solid #777 ;
+}
+.navigation i{
+	font-size:22px;
+	text-align:center;
+}
+.mainIcon{
+	padding:5px 30px 5px 30px;
+}
+.mainIcon:hover{
+	background-color:#898989a6;
+}
+.facbook-icon{
+	padding-right:5px;
+	color:blue; 
+}
+.home-icon{
+	margin-left:80px;
+}
+.game-icon{
+	margin-right:80px;
+}
+.search-box input{
+	width:200px;
+	height:25px;
+	color:#bbb;
+	background-color:#3a3b3c;
+	border-radius :15px;
+}
+.add-icon{
+	margin-left:5px;
+}
+.other-icon{
+	padding-left:5px;
+	padding-right:5px;
+}
+
