@@ -1,2 +1,3 @@
 # anh
-learn design 
+tập thiết kế giao diện đơn giản giống facebook
+
